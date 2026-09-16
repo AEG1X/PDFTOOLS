@@ -22,7 +22,7 @@ later.
 ## Installation
 
 ```bash
-git clone https://github.com/<your-username>/pdftools.git
+git clone https://github.com/AEG1X/pdftools.git
 cd pdftools
 python3 -m venv venv
 source venv/bin/activate
